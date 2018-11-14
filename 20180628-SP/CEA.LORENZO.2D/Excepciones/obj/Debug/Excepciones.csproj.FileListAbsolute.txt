@@ -1,0 +1,6 @@
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Excepciones\bin\Debug\Excepciones.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Excepciones\bin\Debug\Excepciones.pdb
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Excepciones\obj\Debug\Excepciones.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Excepciones\obj\Debug\Excepciones.pdb

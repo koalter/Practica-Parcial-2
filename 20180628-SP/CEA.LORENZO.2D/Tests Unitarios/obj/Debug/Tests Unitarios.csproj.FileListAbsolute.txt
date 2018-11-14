@@ -1,0 +1,21 @@
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\obj\Debug\Tests Unitarios.csprojAssemblyReference.cache
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\obj\Debug\Tests Unitarios.csproj.CoreCompileInputs.cache
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Tests Unitarios.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Tests Unitarios.pdb
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Entidades.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Excepciones.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Entidades.pdb
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Excepciones.pdb
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\obj\Debug\Tests Unitarios.csproj.CopyComplete
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\obj\Debug\Tests Unitarios.dll
+D:\##Cea\20180626-SP\20180628-SP\CEA.LORENZO.2D\Tests Unitarios\obj\Debug\Tests Unitarios.pdb

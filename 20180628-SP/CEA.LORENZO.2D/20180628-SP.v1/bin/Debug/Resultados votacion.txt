@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Votacion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><NombreLey>Nombre de la Ley</NombreLey><VotosPositivos>0</VotosPositivos><VotosNegativos>0</VotosNegativos><VotosAbstencion>0</VotosAbstencion></Votacion>
